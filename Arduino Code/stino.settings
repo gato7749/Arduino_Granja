@@ -1,0 +1,12 @@
+{
+    "arduino_folder": "/home/gato/Programas/arduino-1.0.5", 
+    "baudrate": 2, 
+    "board": 14, 
+    "display_mode": 0, 
+    "full_compilation": true, 
+    "line_ending": 0, 
+    "platform": 1, 
+    "platform_name": "Arduino AVR Boards", 
+    "serial_port": 0, 
+    "show_compilation_output": false
+}
